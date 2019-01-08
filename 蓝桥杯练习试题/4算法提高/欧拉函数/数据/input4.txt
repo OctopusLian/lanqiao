@@ -1,0 +1,5 @@
+input.txt
+output.txt
+40320
+9216
+
