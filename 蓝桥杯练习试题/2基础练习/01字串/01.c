@@ -10,3 +10,8 @@ int main()
                         printf("%d%d%d%d%d\n", i, j, k, l, m);
     return 0;
 }
+
+/*
+暴力破解法
+
+*/
