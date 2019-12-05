@@ -1,4 +1,0 @@
-input.txt
-output.txt
-1026169
-1025156

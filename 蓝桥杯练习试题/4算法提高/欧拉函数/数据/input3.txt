@@ -1,5 +1,0 @@
-input.txt
-output.txt
-920620
-364800
-

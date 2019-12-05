@@ -1,2 +1,0 @@
-abcd efg.
-r s t
